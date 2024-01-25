@@ -14,6 +14,9 @@
     --scrollbar-thumb-light: linear-gradient(43deg, #30cfd0 0%, #330867 100%) #1D68A6; /* Light blue thumb */
     --scrollbar-bg-dark: transparent; /* Dark gray background color for night mode */
   }
+  #red{
+    color: #3f67eb;
+  }
   
   /* Set the scrollbar width and background color using the custom properties */
   ::-webkit-scrollbar {
